@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'cocon-bold-webfont';
-  font-size: 3.5rem;
+  font-size: 3.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.6rem;
+  font-size: 5.12rem;
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.8rem;
-    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.56rem;
+    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.28rem;
@@ -1098,6 +1098,8 @@ body {
   }
 }
 .cid-qJVeyhAkXe {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/bowling-sko-bak-1920-resolution-x800-1653x800.jpg");
 }
 .cid-qJVeyhAkXe .mbr-text,
@@ -2095,6 +2097,8 @@ body {
   }
 }
 .cid-qJVkebjLEM {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/1-1160x655.jpg");
 }
 .cid-qJVkebjLEM .mbr-text,
@@ -2159,6 +2163,39 @@ body {
 .cid-qJVkebjLEM p {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #ffffff;
+}
+.cid-qJVp8rqKDZ {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/bowling-sko-bak-1920-resolution-x800-1653x800.jpg");
+}
+.cid-qJVp8rqKDZ H1 {
+  text-align: left;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #ffffff;
+}
+.cid-qJVp8rqKDZ .mbr-text,
+.cid-qJVp8rqKDZ .mbr-section-btn {
+  text-align: left;
+  color: #cc3300;
+}
+.cid-qJVp8rqKDZ H3 {
+  text-align: left;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.cid-qJVp8rqKDZ DIV {
+  color: #ffffff;
+}
+.cid-qJVp8rqKDZ .mbr-text {
+  transform: rotate(0deg);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.cid-qJVp8rqKDZ .mbr-text,
+.cid-qJVp8rqKDZ .mbr-section-btn B {
+  color: #ffffff;
+}
+.cid-qJVp8rqKDZ H2 {
+  text-align: left;
 }
 .cid-qJVmMQDQGk {
   padding-top: 90px;
@@ -2543,6 +2580,8 @@ body {
   }
 }
 .cid-qJVlk9337q {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/kaffevaffel-672x372.jpg");
 }
 .cid-qJVlk9337q .mbr-text,
