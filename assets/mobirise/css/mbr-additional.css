@@ -28,10 +28,10 @@ body {
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 2.56rem;
 }
 .display-4 {
   font-family: 'Open Sans', sans-serif;
@@ -66,9 +66,9 @@ body {
     line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.64rem;
@@ -1097,34 +1097,70 @@ body {
     flex-basis: auto;
   }
 }
-.cid-qJRLfyZUdt {
-  padding-top: 120px;
-  padding-bottom: 90px;
+.cid-qJVeyhAkXe {
   background-image: url("../../../assets/images/bowling-sko-bak-1920-resolution-x800-1653x800.jpg");
 }
-.cid-qJRLfyZUdt H1 {
-  text-align: left;
+.cid-qJVeyhAkXe .mbr-text,
+.cid-qJVeyhAkXe .typed-text,
+.cid-qJVeyhAkXe .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-qJVeyhAkXe .btn {
+  margin-left: 4px !important;
+}
+.cid-qJVeyhAkXe .animated-element {
+  color: #ffbc00;
+}
+.cid-qJVeyhAkXe .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffbc00;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-qJVeyhAkXe h1 {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #ffffff;
 }
-.cid-qJRLfyZUdt .mbr-text,
-.cid-qJRLfyZUdt .mbr-section-btn {
-  text-align: left;
-  color: #cc3300;
-}
-.cid-qJRLfyZUdt H3 {
-  text-align: left;
+.cid-qJVeyhAkXe h2 {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-.cid-qJRLfyZUdt DIV {
   color: #ffffff;
 }
-.cid-qJRLfyZUdt .mbr-text {
-  transform: rotate(0deg);
+.cid-qJVeyhAkXe p {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-.cid-qJRLfyZUdt .mbr-text,
-.cid-qJRLfyZUdt .mbr-section-btn B {
   color: #ffffff;
 }
 .cid-qJPkZybnNg {
