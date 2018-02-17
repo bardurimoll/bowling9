@@ -36,7 +36,12 @@
     "versionFirst": "4.6.2",
     "uniqCompNum": 52,
     "versionPublish": "4.6.2",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114-1.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
