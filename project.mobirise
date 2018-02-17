@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-16_1514-clone",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -414,6 +414,9 @@
             "p": {
               "text-shadow": "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black",
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
@@ -1627,6 +1630,9 @@
             "p": {
               "text-shadow": "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black",
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
@@ -2214,6 +2220,9 @@
             "p": {
               "text-shadow": "-1px 0 black, 0 1px black, 1px 0 black, 0 -1px black",
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_name": "header2",
