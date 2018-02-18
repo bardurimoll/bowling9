@@ -1171,8 +1171,12 @@ body {
 .cid-qJVeyhAkXe .mbr-section-title {
   text-align: left;
 }
+.cid-qJVeyhAkXe .mbr-section-text,
+.cid-qJVeyhAkXe .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-qJPkZybnNg {
-  padding-top: 90px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
