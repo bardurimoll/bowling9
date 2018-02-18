@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-02-16_1514-clone",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "portfoliom4",
       "title": "PortfolioM4",
@@ -2928,20 +2928,20 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sko-forside-bla-1200x800-2-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sko-forside-bla-1200x800-2-1200x800-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sko-forside-bla-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sko-forside-bla-1200x800-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -2957,7 +2957,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
