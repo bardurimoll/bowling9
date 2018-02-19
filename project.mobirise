@@ -2910,12 +2910,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/guitar-wide-1250x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/guitar-wide-1250x800-800x512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sko-bak-rod-2-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sko-bak-rod-2-1200x800-800x533.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -2939,7 +2939,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
