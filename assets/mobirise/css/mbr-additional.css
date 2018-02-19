@@ -1087,7 +1087,7 @@ body {
 }
 .cid-qJPkiHwIk8 .nav-link:hover,
 .cid-qJPkiHwIk8 .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: "#c1c1c1";
 }
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   .cid-qJPkiHwIk8 .navbar-dropdown.collapsed.opened {
@@ -1097,13 +1097,16 @@ body {
     flex-basis: auto;
   }
 }
-.cid-qJPkiHwIk8 .nav-link:focus {
-  color: #ffffff;
+.cid-qJPkiHwIk8 a:visited {
+  color: "#ffffff";
+}
+.cid-qJPkiHwIk8 .dropdown-item:focus {
+  color: "ffffff";
 }
 .cid-qJVeyhAkXe {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/strike-rod-6-1900x850-5-1900x850.jpg");
+  background-image: url("../../../assets/images/strike-rod-6-1250x800.jpg");
 }
 .cid-qJVeyhAkXe .mbr-text,
 .cid-qJVeyhAkXe .typed-text,
