@@ -4067,7 +4067,7 @@ body {
 }
 .cid-qKiA3IvHRQ {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/strike-rod-6-1250x800-2-jbk-1250x800.jpg");
 }
 .cid-qKiA3IvHRQ .mbr-text,
@@ -4140,8 +4140,29 @@ body {
 .cid-qKiA3IvHRQ .mbr-section-btn {
   color: #ffffff;
 }
+.cid-qKuZcWx1bX {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-qKuZcWx1bX blockquote {
+  color: #232323;
+  font-size: inherit;
+  font-style: normal;
+}
+.cid-qKuZcWx1bX .mbr-iconfont {
+  z-index: 1;
+  position: absolute;
+  font-size: 9rem;
+  color: #232323;
+  opacity: .1;
+}
+.cid-qKuZcWx1bX .mbr-iconfont.right-top {
+  right: -1rem;
+  top: -1rem;
+}
 .cid-qKqS8GJcKj {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
