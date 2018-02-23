@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower:400);
+@import url(https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
 
@@ -28,10 +29,10 @@ body {
 }
 .display-2 {
   font-family: 'Indie Flower', handwriting;
-  font-size: 1.6rem;
+  font-size: 1.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 2.88rem;
 }
 .display-4 {
   font-family: 'Open Sans', sans-serif;
@@ -48,7 +49,7 @@ body {
   font-size: 2.24rem;
 }
 .display-7 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -66,9 +67,9 @@ body {
     line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.28rem;
-    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.64rem;
@@ -664,7 +665,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1166,9 +1167,12 @@ body {
   color: #ffffff;
 }
 .cid-qJVeyhAkXe h2 {
-  font-size: 20px;
+  font-size: 18px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #ffffff;
+}
+.cid-qJVeyhAkXe p {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .cid-qJVeyhAkXe .mbr-section-title {
   text-align: left;
@@ -1176,6 +1180,13 @@ body {
 .cid-qJVeyhAkXe .mbr-section-text,
 .cid-qJVeyhAkXe .mbr-section-btn {
   color: #ffffff;
+  text-align: left;
+}
+.cid-qJVeyhAkXe H2 {
+  text-align: left;
+}
+.cid-qJVeyhAkXe .mbr-section-title DIV {
+  text-align: left;
 }
 .cid-qJPkZybnNg {
   padding-top: 60px;
@@ -1239,6 +1250,10 @@ body {
     display: block;
   }
 }
+.cid-qJPkZybnNg .card-box > p,
+.cid-qJPkZybnNg .mbr-section-btn {
+  color: #333333;
+}
 .cid-qJVTaHlJRc {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1300,6 +1315,10 @@ body {
   .cid-qJVTaHlJRc .card {
     display: block;
   }
+}
+.cid-qJVTaHlJRc .card-box > p,
+.cid-qJVTaHlJRc .mbr-section-btn {
+  color: #333333;
 }
 .cid-qKqS3Gs6G4 {
   padding-top: 90px;
@@ -4522,6 +4541,7 @@ body {
 }
 .cid-qKqWTI6oJA .mbr-section-title {
   margin-left: -0.2rem;
+  text-align: center;
 }
 .cid-qKqWTI6oJA .mbr-section-title span {
   color: #ffbc00;
