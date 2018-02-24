@@ -1106,87 +1106,55 @@ body {
 .cid-qKqJSIC0LJ .dropdown-item:focus {
   color: "ffffff";
 }
-.cid-qJVeyhAkXe {
-  padding-top: 120px;
-  padding-bottom: 90px;
+.cid-qKAx3AsY2H {
   background-image: url("../../../assets/images/strike-rod-6-1250x800-2-1250x800.jpg");
 }
-.cid-qJVeyhAkXe .mbr-text,
-.cid-qJVeyhAkXe .typed-text,
-.cid-qJVeyhAkXe .mbr-section-text {
-  letter-spacing: 0.00rem;
+.cid-qKAx3AsY2H .media-content .btn-bgr {
+  z-index: 0;
 }
-.cid-qJVeyhAkXe .btn {
-  margin-left: 4px !important;
+.cid-qKAx3AsY2H .mbr-overlay {
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.2), #000000);
 }
-.cid-qJVeyhAkXe .animated-element {
-  color: #ffbc00;
-}
-.cid-qJVeyhAkXe .typed-cursor {
-  opacity: 1;
-  -webkit-animation: blink 0.7s infinite;
-  -moz-animation: blink 0.7s infinite;
-  animation: blink 0.7s infinite;
-  color: #ffbc00;
-}
-@keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
+@media (min-width: 992px) {
+  .cid-qKAx3AsY2H .media-content {
+    -webkit-flex-basis: auto;
+    flex-basis: auto;
   }
 }
-@-webkit-keyframes blink {
-  0% {
-    opacity: 1;
+@media (max-width: 991px) {
+  .cid-qKAx3AsY2H {
+    text-align: center !important;
   }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
+  .cid-qKAx3AsY2H .mbr-text {
+    text-align: center;
   }
 }
-@-moz-keyframes blink {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
+.cid-qKAx3AsY2H .media-container-row {
+  justify-content: flex-start;
 }
-.cid-qJVeyhAkXe h1 {
+.cid-qKAx3AsY2H H1 {
+  text-align: left;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #ffffff;
 }
-.cid-qJVeyhAkXe h2 {
+.cid-qKAx3AsY2H h2 {
   font-size: 18px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #ffffff;
 }
-.cid-qJVeyhAkXe p {
+.cid-qKAx3AsY2H p {
+  font-size: 18px;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-.cid-qJVeyhAkXe .mbr-section-title {
+.cid-qKAx3AsY2H .mbr-text,
+.cid-qKAx3AsY2H .mbr-section-btn {
   text-align: left;
 }
-.cid-qJVeyhAkXe .mbr-section-text,
-.cid-qJVeyhAkXe .mbr-section-btn {
-  color: #ffffff;
+.cid-qKAx3AsY2H .mbr-section-text {
   text-align: left;
 }
-.cid-qJVeyhAkXe H2 {
-  text-align: left;
-}
-.cid-qJVeyhAkXe .mbr-section-title DIV {
-  text-align: left;
+.cid-qKAx3AsY2H .mbr-section-btn {
+  margin-left: -10px;
 }
 .cid-qJPkZybnNg {
   padding-top: 60px;
@@ -4221,6 +4189,9 @@ body {
   right: -1rem;
   top: -1rem;
 }
+.cid-qKuZcWx1bX P {
+  color: #333333;
+}
 .cid-qKqS8GJcKj {
   padding-top: 45px;
   padding-bottom: 90px;
@@ -4634,6 +4605,138 @@ body {
   .cid-qKqWTI6oJA .mbr-section-title {
     margin-left: -0.8rem;
   }
+}
+.cid-qKAosar2BN {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/strike-rod-6-1250x800-2-1250x800.jpg");
+}
+.cid-qKAosar2BN .mbr-text,
+.cid-qKAosar2BN .typed-text,
+.cid-qKAosar2BN .mbr-section-text {
+  letter-spacing: 0.00rem;
+}
+.cid-qKAosar2BN .btn {
+  margin-left: 4px !important;
+}
+.cid-qKAosar2BN .animated-element {
+  color: #ffbc00;
+}
+.cid-qKAosar2BN .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffbc00;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-qKAosar2BN h1 {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #ffffff;
+}
+.cid-qKAosar2BN h2 {
+  font-size: 18px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #ffffff;
+}
+.cid-qKAosar2BN p {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.cid-qKAosar2BN .mbr-section-title {
+  text-align: left;
+}
+.cid-qKAosar2BN .mbr-section-text,
+.cid-qKAosar2BN .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qKAosar2BN H2 {
+  text-align: left;
+}
+.cid-qKAosar2BN .mbr-section-title DIV {
+  text-align: left;
+}
+.cid-qKAls7rwxX {
+  background-image: url("../../../assets/images/strike-rod-6-1250x800-2-1250x800.jpg");
+}
+.cid-qKAls7rwxX .media-content .btn-bgr {
+  z-index: 0;
+}
+.cid-qKAls7rwxX .mbr-overlay {
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.2), #000000);
+}
+@media (min-width: 992px) {
+  .cid-qKAls7rwxX .media-content {
+    -webkit-flex-basis: auto;
+    flex-basis: auto;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qKAls7rwxX {
+    text-align: center !important;
+  }
+  .cid-qKAls7rwxX .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qKAls7rwxX .media-container-row {
+  justify-content: flex-start;
+}
+.cid-qKAls7rwxX H1 {
+  text-align: left;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #ffffff;
+}
+.cid-qKAls7rwxX h2 {
+  font-size: 18px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: #ffffff;
+}
+.cid-qKAls7rwxX p {
+  font-size: 18px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.cid-qKAls7rwxX .mbr-text,
+.cid-qKAls7rwxX .mbr-section-btn {
+  text-align: left;
+}
+.cid-qKAls7rwxX .mbr-section-text {
+  text-align: left;
+}
+.cid-qKAls7rwxX .mbr-section-btn {
+  left-margin: 50px;
 }
 .cid-qKwQmkrXGl {
   padding-top: 120px;
