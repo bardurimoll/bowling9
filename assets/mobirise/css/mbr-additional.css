@@ -1100,10 +1100,10 @@ body {
     flex-basis: auto;
   }
 }
-.cid-qKqJSIC0LJ a:visited {
+.cid-qKqJSIC0LJ a.nav-link:visited {
   color: "#ffffff";
 }
-.cid-qKqJSIC0LJ .dropdown-item:focus {
+.cid-qKqJSIC0LJ .dropdown-item:visited {
   color: "ffffff";
 }
 .cid-qKAx3AsY2H {
